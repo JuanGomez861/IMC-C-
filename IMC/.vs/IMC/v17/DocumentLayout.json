@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\imc\\IMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A514AF2B-191B-40BD-B783-8AB6F5F5881E}|IMC\\IMC.csproj|c:\\users\\user\\desktop\\imc\\imc\\imc\\imc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A514AF2B-191B-40BD-B783-8AB6F5F5881E}|IMC\\IMC.csproj|solutionrelative:imc\\imc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514AF2B-191B-40BD-B783-8AB6F5F5881E}|IMC\\IMC.csproj|c:\\users\\user\\desktop\\imc\\imc\\imc\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A514AF2B-191B-40BD-B783-8AB6F5F5881E}|IMC\\IMC.csproj|solutionrelative:imc\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514AF2B-191B-40BD-B783-8AB6F5F5881E}|IMC\\IMC.csproj|c:\\users\\user\\desktop\\imc\\imc\\imc\\imc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514AF2B-191B-40BD-B783-8AB6F5F5881E}|IMC\\IMC.csproj|solutionrelative:imc\\imc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A514AF2B-191B-40BD-B783-8AB6F5F5881E}|IMC\\IMC.csproj|c:\\users\\user\\desktop\\imc\\imc\\imc\\imc.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A514AF2B-191B-40BD-B783-8AB6F5F5881E}|IMC\\IMC.csproj|solutionrelative:imc\\imc.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMC.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\imc\\IMC\\IMC\\IMC.aspx.cs",
+              "RelativeDocumentMoniker": "IMC\\IMC.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\imc\\IMC\\IMC\\IMC.aspx.cs",
+              "RelativeToolTip": "IMC\\IMC.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:43:06.499Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMC.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\imc\\IMC\\IMC\\IMC.aspx",
+              "RelativeDocumentMoniker": "IMC\\IMC.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\imc\\IMC\\IMC\\IMC.aspx",
+              "RelativeToolTip": "IMC\\IMC.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-16T23:07:26.189Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\imc\\IMC\\IMC\\styles.css",
+              "RelativeDocumentMoniker": "IMC\\styles.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\imc\\IMC\\IMC\\styles.css",
+              "RelativeToolTip": "IMC\\styles.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T23:14:20.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMC.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\imc\\IMC\\IMC\\IMC.aspx.designer.cs",
+              "RelativeDocumentMoniker": "IMC\\IMC.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\imc\\IMC\\IMC\\IMC.aspx.designer.cs",
+              "RelativeToolTip": "IMC\\IMC.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:39:26.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
